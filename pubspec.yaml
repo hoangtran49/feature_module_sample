@@ -23,7 +23,7 @@ dependencies:
   equatable: ^2.0.5
   injectable: ^2.1.0
   auto_route: ^5.0.4
-  dio: ^4.0.6
+  dio: ^5.0.2
 
 dev_dependencies:
   bloc_test: ^9.1.1
