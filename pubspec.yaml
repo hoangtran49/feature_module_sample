@@ -18,7 +18,7 @@ dependencies:
   intl: ^0.17.0
   freezed_annotation: ^2.2.0
   json_annotation: ^4.8.0
-  shared_preferences: ^2.0.17
+  shared_preferences: ^2.0.20
   rxdart: ^0.27.7
   equatable: ^2.0.5
   injectable: ^2.1.0
